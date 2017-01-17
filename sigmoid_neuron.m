@@ -1,7 +1,7 @@
 #######################################################################
 # Implemented by Tinniam V Ganesh
 # Date : 17 Jan 2016
-#
+# Function: sigmoid_neuron.m
 ########################################################################
 
 function [w] = sigmoid_neuron()

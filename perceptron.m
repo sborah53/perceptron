@@ -1,3 +1,9 @@
+#######################################################################
+# Implemented by Tinniam V Ganesh
+# Date : 17 Jan 2016
+# Function: perceptron.m
+#
+########################################################################
 function [w] = perceptron()
 echo off
 clear ; close all; clc

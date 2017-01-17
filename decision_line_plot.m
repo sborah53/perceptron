@@ -1,3 +1,8 @@
+#######################################################################
+# Implemented by Tinniam V Ganesh
+# Date : 17 Jan 2016
+# Function: decision_line_plot.m
+########################################################################
 function decision_line_plot(neg_examples, pos_examples,w)
 
 plot(neg_examples(:,1),neg_examples(:,2),"ob");

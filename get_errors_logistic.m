@@ -1,3 +1,8 @@
+#######################################################################
+# Implemented by Tinniam V Ganesh
+# Date : 17 Jan 2016
+# Function: get_errors_logistic.m
+########################################################################
 function [errors0, errors1] = get_errors_logistic(neg_examples, pos_examples,w)
 errors0 = [];
 

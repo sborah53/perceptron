@@ -1,7 +1,7 @@
 #######################################################################
 # Implemented by Tinniam V Ganesh
 # Date : 17 Jan 2016
-# 
+# Function: compute_activation.m
 ########################################################################
 # Compute the activation
 function [w] = compute_activation(neg_examples, pos_examples,w)

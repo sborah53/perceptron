@@ -1,7 +1,7 @@
 #######################################################################
 # Implemented by Tinniam V Ganesh
 # Date : 17 Jan 2016
-#
+# Function: get_errors.m
 ########################################################################
 function [errors0, errors1] = get_errors(neg_examples, pos_examples,w)
 errors0 = [];
