@@ -1,3 +1,8 @@
+#######################################################################
+# Implemented by Tinniam V Ganesh
+# Date : 17 Jan 2016
+# 
+########################################################################
 # Compute the activation
 function [w] = compute_activation(neg_examples, pos_examples,w)
 ## Compute weights based on negative examples

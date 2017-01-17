@@ -1,3 +1,8 @@
+#######################################################################
+# Implemented by Tinniam V Ganesh
+# Date : 17 Jan 2016
+#
+########################################################################
 function [w] = compute_weights(neg_examples, pos_examples,w)
 ## Compute weights based on negative examples
 for i=1:size(neg_examples,1)

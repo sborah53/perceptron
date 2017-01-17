@@ -1,9 +1,15 @@
+#######################################################################
+# Implemented by Tinniam V Ganesh
+# Date : 17 Jan 2016
+#
+########################################################################
+
 function [w] = sigmoid_neuron()
 echo off
 clear ; close all; clc
 
-#load data1.mat;
-load data2.mat;
+load data1.mat;
+#load data2.mat;
 sz_neg_examples = size(neg_examples_nobias,1);
 sz_pos_examples = size(pos_examples_nobias,1);
 
